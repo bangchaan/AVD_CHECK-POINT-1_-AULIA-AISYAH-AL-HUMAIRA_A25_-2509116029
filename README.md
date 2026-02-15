@@ -1,5 +1,5 @@
 # AVD_CHECK-POINT-1_-AULIA-AISYAH-AL-HUMAIRA_A25_-2509116029
 
 ## CHECK POINT 1
-Pada check point ini saya mengambil dataset harga-harga *smartphone* yang dapat memabntu untuk mempredisksi harga, melihat harga pasar, dan perbandingan harga tiap brand.
-Analisis yang digunakan yaitu business understanding yang terdapat empat tahapan seperti Business Objective, Assess Situation, Analytic Goals. dan Project Plan.
+Pada check point ini saya mengambil dataset harga-harga *smartphone* yang dapat membantu untuk mempredisksi harga, melihat harga pasar, dan perbandingan harga tiap brand.
+Analisis yang digunakan yaitu business understanding yang terdapat empat tahapan seperti Business Objective, Assess Situation, Analytic Goals, dan Project Plan.
